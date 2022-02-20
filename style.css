@@ -1,0 +1,35 @@
+.container{
+    width:1000;
+    margin:auto;
+}
+.row{
+    display:flex;
+    flex-wrap: wrap;
+}
+.box1{
+    width:40%;
+    margin:auto;
+    background-color: rgb(234, 0, 255);
+}
+.box1 .box1-2{
+    width:45%;
+    margin:auto
+}
+.box1-2 img{
+    width:100%
+}
+.box2{
+    width:40%;
+    margin:auto;
+    background-color: rgb(234, 0, 255);
+}
+.box2 .box2-2{
+    width:45%;
+    margin:auto;
+}
+.box2 img{
+    width:100%
+}
+.Assignment1{
+    background-color: aqua;
+}
